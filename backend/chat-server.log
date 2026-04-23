@@ -445,3 +445,215 @@
 [2026-04-23 17:39:40] [INFO] Broadcast from SYSTEM: Vihaan_Khare has left the chat
 [2026-04-23 17:39:40] [INFO] Connection closed: 
 [2026-04-23 17:39:50] [INFO] Shutting down server...
+[2026-04-23 18:33:17] [INFO] EncryptionService initialized with AES-256
+[2026-04-23 18:33:17] [INFO] UserRepository initialized at: src/main/resources/data/users.json
+[2026-04-23 18:33:17] [INFO] MessageRepository initialized at: src/main/resources/data/messages.json
+[2026-04-23 18:33:17] [WARN] AIService: No API key configured. AI features disabled.
+[2026-04-23 18:33:17] [INFO] ChatServer initialized on port 8887
+[2026-04-23 18:33:17] [INFO] Server started. Press Ctrl+C to stop.
+[2026-04-23 18:33:17] [INFO] ????????????????????????????????????????????
+[2026-04-23 18:33:17] [INFO] ?     SecureChat Server is RUNNING!        ?
+[2026-04-23 18:33:17] [INFO] ?     Port: 8887                           ?
+[2026-04-23 18:33:17] [INFO] ?     AI: Disabled ?                       ?
+[2026-04-23 18:33:17] [INFO] ????????????????????????????????????????????
+[2026-04-23 18:33:22] [INFO] New connection from: /[0:0:0:0:0:0:0:1]:50277
+[2026-04-23 18:33:22] [INFO] User logged in: Vihaan_Khare
+[2026-04-23 18:33:22] [INFO] ClientHandler registered: Vihaan_Khare
+[2026-04-23 18:33:22] [INFO] Message saved (encrypted): 42ce8775-8bbf-4d1f-bf70-f75ae0dc4f64
+[2026-04-23 18:33:22] [INFO] Broadcast from SYSTEM: Vihaan_Khare is now online
+[2026-04-23 18:33:30] [INFO] Message saved (encrypted): 5644082c-abc2-4f94-849b-fb29273ee2ef
+[2026-04-23 18:33:30] [INFO] Broadcast from Vihaan_Khare: @ai
+[2026-04-23 18:35:03] [INFO] EncryptionService initialized with AES-256
+[2026-04-23 18:35:03] [INFO] UserRepository initialized at: src/main/resources/data/users.json
+[2026-04-23 18:35:03] [INFO] MessageRepository initialized at: src/main/resources/data/messages.json
+[2026-04-23 18:35:03] [WARN] AIService: No API key configured. AI features disabled.
+[2026-04-23 18:35:03] [INFO] ChatServer initialized on port 8887
+[2026-04-23 18:35:03] [INFO] Server started. Press Ctrl+C to stop.
+[2026-04-23 18:35:03] [ERROR] WebSocket error | Exception: Address already in use: bind
+[2026-04-23 18:37:06] [INFO] Shutting down server...
+[2026-04-23 18:37:06] [INFO] ClientHandler deregistered: Vihaan_Khare
+[2026-04-23 18:37:06] [INFO] Message saved (encrypted): af1f27f3-0e24-4d04-a93c-c19c4338cca6
+[2026-04-23 18:37:06] [INFO] Broadcast from SYSTEM: Vihaan_Khare has left the chat
+[2026-04-23 18:37:06] [INFO] Connection closed: 
+[2026-04-23 18:37:16] [INFO] EncryptionService initialized with AES-256
+[2026-04-23 18:37:16] [INFO] UserRepository initialized at: src/main/resources/data/users.json
+[2026-04-23 18:37:16] [INFO] MessageRepository initialized at: src/main/resources/data/messages.json
+[2026-04-23 18:37:16] [WARN] AIService: No API key configured. AI features disabled.
+[2026-04-23 18:37:16] [INFO] ChatServer initialized on port 8887
+[2026-04-23 18:37:16] [INFO] Server started. Press Ctrl+C to stop.
+[2026-04-23 18:37:16] [INFO] ????????????????????????????????????????????
+[2026-04-23 18:37:16] [INFO] ?     SecureChat Server is RUNNING!        ?
+[2026-04-23 18:37:16] [INFO] ?     Port: 8887                           ?
+[2026-04-23 18:37:16] [INFO] ?     AI: Disabled ?                       ?
+[2026-04-23 18:37:16] [INFO] ????????????????????????????????????????????
+[2026-04-23 18:37:19] [INFO] New connection from: /[0:0:0:0:0:0:0:1]:51964
+[2026-04-23 18:41:05] [INFO] Shutting down server...
+[2026-04-23 18:41:05] [INFO] Connection closed: 
+[2026-04-23 18:43:03] [INFO] EncryptionService initialized with AES-256
+[2026-04-23 18:43:03] [INFO] UserRepository initialized at: src/main/resources/data/users.json
+[2026-04-23 18:43:03] [INFO] MessageRepository initialized at: src/main/resources/data/messages.json
+[2026-04-23 18:43:03] [INFO] AIService initialized with OpenRouter API
+[2026-04-23 18:43:03] [INFO] ChatServer initialized on port 8887
+[2026-04-23 18:43:03] [INFO] Server started. Press Ctrl+C to stop.
+[2026-04-23 18:43:03] [INFO] ????????????????????????????????????????????
+[2026-04-23 18:43:03] [INFO] ?     SecureChat Server is RUNNING!        ?
+[2026-04-23 18:43:03] [INFO] ?     Port: 8887                           ?
+[2026-04-23 18:43:03] [INFO] ?     AI: Enabled ?                       ?
+[2026-04-23 18:43:03] [INFO] ????????????????????????????????????????????
+[2026-04-23 18:43:12] [INFO] New connection from: /[0:0:0:0:0:0:0:1]:62507
+[2026-04-23 18:43:12] [INFO] User logged in: Vihaan_Khare
+[2026-04-23 18:43:12] [INFO] ClientHandler registered: Vihaan_Khare
+[2026-04-23 18:43:12] [INFO] Message saved (encrypted): c41e2084-d776-42c6-88da-4da8c1218315
+[2026-04-23 18:43:12] [INFO] Broadcast from SYSTEM: Vihaan_Khare is now online
+[2026-04-23 18:43:17] [INFO] Message saved (encrypted): 2e754c93-818e-45bb-8f00-46ba66c755f5
+[2026-04-23 18:43:17] [INFO] Broadcast from Vihaan_Khare: @ai
+[2026-04-23 18:45:12] [INFO] Message saved (encrypted): e641c47d-1703-4e5c-914c-854d5e7973fc
+[2026-04-23 18:45:12] [INFO] Broadcast from Vihaan_Khare: @ai
+[2026-04-23 18:45:30] [INFO] Message saved (encrypted): cb76d86f-6460-4279-9ac1-288f97d10a95
+[2026-04-23 18:45:30] [INFO] Broadcast from Vihaan_Khare: @ai what is inheritance in oops
+[2026-04-23 18:45:31] [ERROR] AI API error: 404 - {"error":{"message":"No endpoints found for meta-llama/llama-3.1-8b-instruct:free.","code":404},"user_id":"user_3ClA1ZVlgAlfExtVVWnZson5JV7"}
+[2026-04-23 18:45:31] [INFO] Message saved (encrypted): 80a6450c-7d76-4634-a744-371dfe3e6450
+[2026-04-23 18:45:31] [INFO] Broadcast from AI Assistant: ? AI request failed (status 404). Please try again later.
+[2026-04-23 18:45:56] [INFO] EncryptionService initialized with AES-256
+[2026-04-23 18:45:56] [INFO] UserRepository initialized at: src/main/resources/data/users.json
+[2026-04-23 18:45:56] [INFO] MessageRepository initialized at: src/main/resources/data/messages.json
+[2026-04-23 18:45:56] [INFO] AIService initialized with OpenRouter API
+[2026-04-23 18:45:56] [INFO] ChatServer initialized on port 8887
+[2026-04-23 18:45:56] [INFO] Server started. Press Ctrl+C to stop.
+[2026-04-23 18:45:56] [INFO] ????????????????????????????????????????????
+[2026-04-23 18:45:56] [INFO] ?     SecureChat Server is RUNNING!        ?
+[2026-04-23 18:45:56] [INFO] ?     Port: 8887                           ?
+[2026-04-23 18:45:56] [INFO] ?     AI: Enabled ?                       ?
+[2026-04-23 18:45:56] [INFO] ????????????????????????????????????????????
+[2026-04-23 18:46:02] [INFO] New connection from: /[0:0:0:0:0:0:0:1]:62552
+[2026-04-23 18:46:08] [INFO] Connection closed: 
+[2026-04-23 18:46:11] [INFO] New connection from: /[0:0:0:0:0:0:0:1]:62556
+[2026-04-23 18:46:11] [INFO] User logged in: Vihaan_Khare
+[2026-04-23 18:46:11] [INFO] ClientHandler registered: Vihaan_Khare
+[2026-04-23 18:46:11] [INFO] Message saved (encrypted): 038815b8-9cdf-451c-a70a-73a391aab271
+[2026-04-23 18:46:11] [INFO] Broadcast from SYSTEM: Vihaan_Khare is now online
+[2026-04-23 18:46:35] [INFO] Message saved (encrypted): 5e339656-c697-464e-8564-a637d9352a7e
+[2026-04-23 18:46:35] [INFO] Broadcast from Vihaan_Khare: @ai what is inheritance in oops
+[2026-04-23 18:46:36] [ERROR] AI API error: 404 - {"error":{"message":"No endpoints found for meta-llama/llama-3.1-8b-instruct:free.","code":404},"user_id":"user_3ClA1ZVlgAlfExtVVWnZson5JV7"}
+[2026-04-23 18:46:37] [INFO] Message saved (encrypted): 0b98a970-1cd1-4ef0-a64e-914387f8b7bc
+[2026-04-23 18:46:37] [INFO] Broadcast from AI Assistant: ? AI request failed (status 404). Please try again later.
+[2026-04-23 18:49:56] [INFO] EncryptionService initialized with AES-256
+[2026-04-23 18:49:56] [INFO] UserRepository initialized at: src/main/resources/data/users.json
+[2026-04-23 18:49:56] [INFO] MessageRepository initialized at: src/main/resources/data/messages.json
+[2026-04-23 18:49:56] [INFO] AIService initialized with OpenRouter API
+[2026-04-23 18:49:56] [INFO] ChatServer initialized on port 8887
+[2026-04-23 18:49:56] [INFO] Server started. Press Ctrl+C to stop.
+[2026-04-23 18:49:56] [ERROR] WebSocket error | Exception: Address already in use: bind
+[2026-04-23 18:51:13] [INFO] EncryptionService initialized with AES-256
+[2026-04-23 18:51:13] [INFO] UserRepository initialized at: src/main/resources/data/users.json
+[2026-04-23 18:51:13] [INFO] MessageRepository initialized at: src/main/resources/data/messages.json
+[2026-04-23 18:51:13] [INFO] AIService initialized with OpenRouter API
+[2026-04-23 18:51:13] [INFO] ChatServer initialized on port 8887
+[2026-04-23 18:51:13] [INFO] Server started. Press Ctrl+C to stop.
+[2026-04-23 18:51:13] [INFO] ????????????????????????????????????????????
+[2026-04-23 18:51:13] [INFO] ?     SecureChat Server is RUNNING!        ?
+[2026-04-23 18:51:13] [INFO] ?     Port: 8887                           ?
+[2026-04-23 18:51:13] [INFO] ?     AI: Enabled ?                       ?
+[2026-04-23 18:51:13] [INFO] ????????????????????????????????????????????
+[2026-04-23 18:51:26] [INFO] EncryptionService initialized with AES-256
+[2026-04-23 18:51:26] [INFO] UserRepository initialized at: src/main/resources/data/users.json
+[2026-04-23 18:51:26] [INFO] MessageRepository initialized at: src/main/resources/data/messages.json
+[2026-04-23 18:51:26] [INFO] AIService initialized with OpenRouter API
+[2026-04-23 18:51:26] [INFO] ChatServer initialized on port 8887
+[2026-04-23 18:51:26] [INFO] Server started. Press Ctrl+C to stop.
+[2026-04-23 18:51:26] [ERROR] WebSocket error | Exception: Address already in use: bind
+[2026-04-23 18:51:59] [INFO] EncryptionService initialized with AES-256
+[2026-04-23 18:51:59] [INFO] UserRepository initialized at: src/main/resources/data/users.json
+[2026-04-23 18:51:59] [INFO] MessageRepository initialized at: src/main/resources/data/messages.json
+[2026-04-23 18:51:59] [INFO] AIService initialized with OpenRouter API
+[2026-04-23 18:51:59] [INFO] ChatServer initialized on port 8887
+[2026-04-23 18:51:59] [INFO] Server started. Press Ctrl+C to stop.
+[2026-04-23 18:51:59] [INFO] ????????????????????????????????????????????
+[2026-04-23 18:51:59] [INFO] ?     SecureChat Server is RUNNING!        ?
+[2026-04-23 18:51:59] [INFO] ?     Port: 8887                           ?
+[2026-04-23 18:51:59] [INFO] ?     AI: Enabled ?                       ?
+[2026-04-23 18:51:59] [INFO] ????????????????????????????????????????????
+[2026-04-23 18:52:48] [INFO] EncryptionService initialized with AES-256
+[2026-04-23 18:52:48] [INFO] UserRepository initialized at: src/main/resources/data/users.json
+[2026-04-23 18:52:48] [INFO] MessageRepository initialized at: src/main/resources/data/messages.json
+[2026-04-23 18:52:48] [INFO] AIService initialized with OpenRouter API
+[2026-04-23 18:52:48] [INFO] ChatServer initialized on port 8887
+[2026-04-23 18:52:48] [INFO] Server started. Press Ctrl+C to stop.
+[2026-04-23 18:52:48] [ERROR] WebSocket error | Exception: Address already in use: bind
+[2026-04-23 18:54:39] [INFO] EncryptionService initialized with AES-256
+[2026-04-23 18:54:39] [INFO] UserRepository initialized at: src/main/resources/data/users.json
+[2026-04-23 18:54:39] [INFO] MessageRepository initialized at: src/main/resources/data/messages.json
+[2026-04-23 18:54:39] [INFO] AIService initialized with OpenRouter API
+[2026-04-23 18:54:39] [INFO] ChatServer initialized on port 8887
+[2026-04-23 18:54:39] [INFO] Server started. Press Ctrl+C to stop.
+[2026-04-23 18:54:39] [INFO] ????????????????????????????????????????????
+[2026-04-23 18:54:39] [INFO] ?     SecureChat Server is RUNNING!        ?
+[2026-04-23 18:54:39] [INFO] ?     Port: 8887                           ?
+[2026-04-23 18:54:39] [INFO] ?     AI: Enabled ?                       ?
+[2026-04-23 18:54:39] [INFO] ????????????????????????????????????????????
+[2026-04-23 18:54:47] [INFO] New connection from: /[0:0:0:0:0:0:0:1]:56001
+[2026-04-23 18:54:47] [INFO] User logged in: Vihaan_Khare
+[2026-04-23 18:54:47] [INFO] ClientHandler registered: Vihaan_Khare
+[2026-04-23 18:54:47] [INFO] Message saved (encrypted): 7f7da099-bf2b-446b-bf86-97a313f4de6b
+[2026-04-23 18:54:48] [INFO] Broadcast from SYSTEM: Vihaan_Khare is now online
+[2026-04-23 18:55:02] [INFO] Message saved (encrypted): 96435403-bdf8-471f-8c88-4a482f7f72a6
+[2026-04-23 18:55:02] [INFO] Broadcast from Vihaan_Khare: @ai what is OOP?
+[2026-04-23 18:55:03] [ERROR] AI API error: 404 - {"error":{"message":"No endpoints found for mistralai/mistral-7b-instruct:free.","code":404},"user_id":"user_3ClA1ZVlgAlfExtVVWnZson5JV7"}
+[2026-04-23 18:55:03] [INFO] Message saved (encrypted): 0273eec3-ab55-47a1-a4fd-60d8195d6881
+[2026-04-23 18:55:03] [INFO] Broadcast from AI Assistant: ? AI request failed (status 404). Please try again later.
+[2026-04-23 18:56:26] [INFO] Message saved (encrypted): b24580cc-0d44-4110-bd59-61fc93ebde43
+[2026-04-23 18:56:26] [INFO] Broadcast from Vihaan_Khare: '@ai what is polymorphism
+[2026-04-23 18:56:34] [INFO] Message saved (encrypted): 4f80de68-4a2d-4e33-9713-942979ddfbc5
+[2026-04-23 18:56:34] [INFO] Broadcast from Vihaan_Khare: @ai what is polymorphism
+[2026-04-23 18:56:35] [ERROR] AI API error: 404 - {"error":{"message":"No endpoints found for mistralai/mistral-7b-instruct:free.","code":404},"user_id":"user_3ClA1ZVlgAlfExtVVWnZson5JV7"}
+[2026-04-23 18:56:35] [INFO] Message saved (encrypted): a23e2162-9f81-497d-8a1d-90013f11116a
+[2026-04-23 18:56:35] [INFO] Broadcast from AI Assistant: ? AI request failed (status 404). Please try again later.
+[2026-04-23 18:59:03] [INFO] Shutting down server...
+[2026-04-23 18:59:03] [INFO] ClientHandler deregistered: Vihaan_Khare
+[2026-04-23 18:59:03] [INFO] Message saved (encrypted): 20a29a66-d952-4868-a1d1-4f7cfaac99fb
+[2026-04-23 18:59:03] [INFO] Broadcast from SYSTEM: Vihaan_Khare has left the chat
+[2026-04-23 18:59:03] [INFO] Connection closed: 
+[2026-04-23 18:59:10] [INFO] EncryptionService initialized with AES-256
+[2026-04-23 18:59:10] [INFO] UserRepository initialized at: src/main/resources/data/users.json
+[2026-04-23 18:59:10] [INFO] MessageRepository initialized at: src/main/resources/data/messages.json
+[2026-04-23 18:59:10] [INFO] AIService initialized with OpenRouter API
+[2026-04-23 18:59:10] [INFO] ChatServer initialized on port 8887
+[2026-04-23 18:59:10] [INFO] Server started. Press Ctrl+C to stop.
+[2026-04-23 18:59:10] [INFO] ????????????????????????????????????????????
+[2026-04-23 18:59:10] [INFO] ?     SecureChat Server is RUNNING!        ?
+[2026-04-23 18:59:10] [INFO] ?     Port: 8887                           ?
+[2026-04-23 18:59:10] [INFO] ?     AI: Enabled ?                       ?
+[2026-04-23 18:59:10] [INFO] ????????????????????????????????????????????
+[2026-04-23 18:59:18] [INFO] New connection from: /[0:0:0:0:0:0:0:1]:54275
+[2026-04-23 18:59:18] [INFO] User logged in: Vihaan_Khare
+[2026-04-23 18:59:18] [INFO] ClientHandler registered: Vihaan_Khare
+[2026-04-23 18:59:18] [INFO] Message saved (encrypted): b7d130dd-500c-4e1d-b5e4-46239c21605f
+[2026-04-23 18:59:18] [INFO] Broadcast from SYSTEM: Vihaan_Khare is now online
+[2026-04-23 19:01:04] [INFO] Message saved (encrypted): 83ee8924-5f0d-4329-b03f-4e4b4e698d6f
+[2026-04-23 19:01:04] [INFO] Broadcast from Vihaan_Khare: @ai what is polymorphism
+[2026-04-23 19:01:09] [INFO] Message saved (encrypted): 5278811f-bfad-4398-bd2d-6ea974a641e9
+[2026-04-23 19:01:09] [INFO] Broadcast from AI Assistant: Polymorphism is an object-oriented programming concept where a single interface can represent different underlying forms or data types. Think of it like a "save" button that works differently depending on whether you're in a text editor or a graphics program!
+[2026-04-23 19:01:21] [INFO] Message saved (encrypted): fca4b6cb-a56e-4fe3-816a-743a1aba366e
+[2026-04-23 19:01:21] [INFO] Broadcast from Vihaan_Khare: @ai what is inheritance in oops
+[2026-04-23 19:01:33] [ERROR] Failed to parse AI response | Exception: JsonNull
+[2026-04-23 19:01:33] [INFO] Message saved (encrypted): 6c2b05ad-7145-49da-a28c-356b8834ea9e
+[2026-04-23 19:01:33] [INFO] Broadcast from AI Assistant: ? Sorry, I couldn't process that response.
+[2026-04-23 19:01:40] [INFO] Message saved (encrypted): 9c4154d0-8055-4908-8c2c-63d9c2e5e8bd
+[2026-04-23 19:01:40] [INFO] Broadcast from Vihaan_Khare: @ai how was ur dau
+[2026-04-23 19:01:41] [INFO] Message saved (encrypted): 3f3be0a1-bc5f-4ee7-8581-f000d0c3f038
+[2026-04-23 19:01:41] [INFO] Broadcast from AI Assistant: Hey! My "daughter" is doing great—how about you? What's new with you? ?
+[2026-04-23 19:02:22] [INFO] Message saved (encrypted): ce32ae7d-ed00-418c-85f5-3c7843d2e4db
+[2026-04-23 19:02:22] [INFO] Broadcast from Vihaan_Khare: @why can't you process that responce
+[2026-04-23 19:03:06] [INFO] Message saved (encrypted): afb78db2-7ce0-4838-a689-ede3069f5acf
+[2026-04-23 19:03:06] [INFO] Broadcast from Vihaan_Khare: @ai why can't you process that response
+[2026-04-23 19:03:10] [INFO] Message saved (encrypted): 6f923c0c-22f1-43b4-af7b-4477ece58385
+[2026-04-23 19:03:10] [INFO] Broadcast from AI Assistant: I’m not able to see the original message you’re referring to, so I can’t generate a proper reply. Could you resend or rephrase it? I’ll help right away!
+[2026-04-23 19:03:17] [INFO] Message saved (encrypted): d18f9ca0-81b0-46e9-90e1-b3a07e3c0b76
+[2026-04-23 19:03:17] [INFO] Broadcast from Vihaan_Khare: @ai what is inheritance in oops
+[2026-04-23 19:03:22] [INFO] Message saved (encrypted): 066d9a44-274e-482c-96c7-0f34952a7cc2
+[2026-04-23 19:03:22] [INFO] Broadcast from AI Assistant: Inheritance is an OOP mechanism where a new class (child) can adopt the properties and methods of an existing class (parent). It's mainly used to promote code reusability and to establish a hierarchical relationship between classes.
+[2026-04-23 19:03:35] [INFO] Shutting down server...
+[2026-04-23 19:03:35] [INFO] ClientHandler deregistered: Vihaan_Khare
+[2026-04-23 19:03:35] [INFO] Message saved (encrypted): 8db5ed42-eff3-4382-9514-892116f270d3
+[2026-04-23 19:03:35] [INFO] Broadcast from SYSTEM: Vihaan_Khare has left the chat
+[2026-04-23 19:03:35] [INFO] Connection closed: 

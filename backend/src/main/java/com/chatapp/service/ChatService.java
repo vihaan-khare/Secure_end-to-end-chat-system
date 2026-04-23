@@ -61,10 +61,11 @@ public class ChatService {
         // Route based on type
         switch (message.getType()) {
             case BROADCAST -> handleBroadcast(message);
-            case PRIVATE -> handlePrivateMessage(message);
-            case GROUP -> handleGroupMessage(message);
-            case SYSTEM -> handleBroadcast(message);
-            default -> logger.warn("Unknown message type: " + message.getType());
+            case PRIVATE  -> handlePrivateMessage(message);
+            case GROUP    -> handleGroupMessage(message);
+            case SYSTEM   -> handleBroadcast(message);
+            case AI       -> handleBroadcast(message); // AI responses are visible to everyone
+            default       -> logger.warn("Unknown message type: " + message.getType());
         }
     }
 

@@ -240,9 +240,22 @@ public class ChatServer extends WebSocketServer {
         if (content == null || content.isBlank())
             return;
 
-        // Check for AI trigger
-        if (content.startsWith("@ai ") || content.startsWith("@AI ")) {
-            handleAIMessage(handler, content.substring(4));
+        // Check for AI trigger — accepts "@ai", "@ai ", or "@ai <question>"
+        String lower = content.toLowerCase().trim();
+        if (lower.equals("@ai") || lower.startsWith("@ai ")) {
+            String question = content.substring(3).trim(); // strip "@ai"
+            if (question.isEmpty()) {
+                // User typed @ai with no question — give a helpful nudge
+                handler.sendMessage(gson.toJson(Map.of(
+                        "type", "message",
+                        "id", java.util.UUID.randomUUID().toString(),
+                        "sender", "AI Assistant",
+                        "content", "🤖 Hi! Ask me anything — e.g. '@ai what is polymorphism?'",
+                        "timestamp", java.time.Instant.now().toString(),
+                        "messageType", "AI")));
+                return;
+            }
+            handleAIMessage(handler, question);
             return;
         }
 

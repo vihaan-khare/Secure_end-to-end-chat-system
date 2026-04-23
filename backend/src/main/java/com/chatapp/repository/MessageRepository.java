@@ -81,7 +81,8 @@ public class MessageRepository {
     public synchronized List<Message> findRecentBroadcasts(int limit) {
         List<Message> broadcasts = readAllRaw().stream()
                 .filter(m -> m.getType() == Message.MessageType.BROADCAST ||
-                        m.getType() == Message.MessageType.SYSTEM)
+                        m.getType() == Message.MessageType.SYSTEM ||
+                        m.getType() == Message.MessageType.AI)
                 .map(this::decryptMessage)
                 .collect(Collectors.toList());
 

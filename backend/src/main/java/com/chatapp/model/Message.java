@@ -100,7 +100,7 @@ public class Message {
         return new Message(
             UUID.randomUUID().toString(),
             "AI Assistant", content, Instant.now().toString(),
-            MessageType.AI, originalSender, null
+            MessageType.AI, null, null
         );
     }
 

@@ -64,7 +64,7 @@ public class AIService {
             // Build the JSON request body
             String requestBody = """
                     {
-                        "model": "meta-llama/llama-3.1-8b-instruct:free",
+                        "model": "openrouter/free",
                         "messages": [
                             {
                                 "role": "system",

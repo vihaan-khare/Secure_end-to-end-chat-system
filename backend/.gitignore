@@ -1,0 +1,6 @@
+target/
+*.class
+*.log
+.env
+src/main/resources/data/*.json
+chat-server.log
